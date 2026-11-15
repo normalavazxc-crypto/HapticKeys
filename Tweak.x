@@ -3,6 +3,9 @@
 #import <UIKit/UIKit.h>
 #import <QuartzCore/QuartzCore.h>
 
+@interface UIKeyboardLayoutStar : UIView
+@end
+
 static UIImpactFeedbackGenerator *gFeedbackGen = nil;
 static CFTimeInterval gLastHapticTime = 0;
 
