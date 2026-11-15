@@ -1,0 +1,9 @@
+Package: com.haptickeys.tweak
+Name: HapticKeys
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Crisp haptic vibration on every iOS 16 keyboard key press (rootless).
+Maintainer: HapticKeys
+Author: HapticKeys
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
